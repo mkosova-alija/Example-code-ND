@@ -1,2 +1,2 @@
 # newsdata
-# the codes shared are for students to implement in their testings
+The codes shared are for students to implement as part of their testing
